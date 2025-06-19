@@ -8,3 +8,5 @@
     'Az.Keyvault'   = '3.*'
     'AzBobbyTables' = '2.*'
 }
+
+# sync
